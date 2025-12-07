@@ -1,2 +1,7 @@
-.next/
 node_modules/
+.next/
+dist/
+build/
+
+.env
+.env.local
